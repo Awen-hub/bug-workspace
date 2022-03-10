@@ -1,0 +1,19 @@
+{
+  "name": "first-page",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "build-scripts build",
+    "start": "build-scripts start"
+  },
+  "dependencies": {
+    "jsx2mp-runtime": "^0.4.8",
+    "qy-recoil": "^0.0.10",
+    "rax": "^1.2.2"
+  },
+  "devDependencies": {
+    "build-plugin-component": "^1.0.0",
+    "build-scripts": "^1.1.1"
+  }
+}
