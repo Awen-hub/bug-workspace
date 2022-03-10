@@ -1,5 +1,5 @@
-import { usePageState } from 'qy-recoil'
-console.log(usePageState);
+import axios from 'wx-axios'
+console.log(axios);
 
 const Index = () => {
   return <view>hello world</view>

@@ -1,0 +1,11 @@
+{
+  "name": "second",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "build-scripts build",
+    "start": "build-scripts start"
+  },
+  "dependencies": {}
+}
